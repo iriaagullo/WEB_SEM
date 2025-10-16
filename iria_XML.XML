@@ -1,0 +1,30 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:wikidata="http://www.wikidata.org/entity/"
+    xmlns:j.0="https://github.com/iriaagullo/WEB_SEM/"
+    xmlns:ex="http://ex.org/movie#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <foaf:Person rdf:about="https://github.com/iriaagullo/WEB_SEM/iria.ttl#yo">
+    <foaf:firstName>Iria</foaf:firstName>
+    <ex:likesMovie rdf:resource="http://www.wikidata.org/entity/Q36951175"/>
+    <foaf:knows rdf:resource="https://github.com/mfgavilanes/WS/perfil.ttl#yo"/>
+    <foaf:name xml:lang="es">Perfil FOAF de Iriaagullo</foaf:name>
+    <foaf:homepage rdf:resource="https://esei.uvigo.es/"/>
+    <j.0:iria.ttl rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <foaf:primaryTopic rdf:resource="https://github.com/iriaagullo/WEB_SEM/iria.ttl#yo"/>
+    <foaf:name>Iria Agulló Gómez</foaf:name>
+    <foaf:knows rdf:resource="http://github.com/siradubrap/sira.ttl#yo"/>
+    <ex:likesMovie rdf:resource="http://www.wikidata.org/entity/Q223374"/>
+    <foaf:based_near rdf:resource="https://www.geonames.org/3119841/"/>
+    <foaf:interest rdf:resource="http://www.wikidata.org/entity/Q124913371"/>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >21</foaf:age>
+    <foaf:gender xml:lang="es">femenino</foaf:gender>
+    <foaf:surname>Agulló-Gómez</foaf:surname>
+    <foaf:interest rdf:resource="http://www.wikidata.org/entity/Q6160865"/>
+    <ex:likesMovie rdf:resource="http://www.wikidata.org/entity/Q20856802"/>
+    <foaf:birthday>22-08</foaf:birthday>
+    <foaf:interest rdf:resource="http://www.wikidata.org/entity/Q229680"/>
+    <foaf:knows rdf:resource="https://github.com/AdanAgr/WS/blob/main/santi.ttl#yo"/>
+  </foaf:Person>
+</rdf:RDF>
