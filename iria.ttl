@@ -1,4 +1,4 @@
-@base <https://iriaagullo.org/perfil.ttl> .
+@base <https://github.com/iriaagullo/WEB_SEM/iria.ttl> .
 
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -12,11 +12,14 @@
 	foaf:birthday "22-08";
 	foaf:age 21;
 	foaf:gender "femenino"@es;
-	#foaf:homepage <https://esei.uvigo.es/es/docencia/profesorado/profesor/fernandez-gavilanes-milagros/>;
-	foaf:based_near <https://sws.geonames.org/6359304/>;
-	#foaf:interest wikidata:Q54837 , wikidata:Q816826;
-	#ex:likesMovie wikidata:Q304030 , wikidata:Q2562640 .
-	foaf:knows  <http://siradubra.org/perfil.ttl>;
+	foaf:homepage <https://esei.uvigo.es/>;
+	foaf:based_near <https://www.geonames.org/3119841/>;
+	foaf:interest wikidata:Q229680 , wikidata:Q124913371 , Q6160865;
+	ex:likesMovie wikidata:Q223374 , wikidata:Q20856802 , Q36951175;
+	foaf:knows  <http://siradubra.org/sira.ttl#yo>,
+				<https://github.com/mfgavilanes/WS/perfil.ttl#yo>,
+				<https://github.com/AdanAgr/WS/blob/main/santi.ttl#yo>;
+				
 
 <> a foaf:Document ;
 	foaf:name "Perfil FOAF de Iriaagullo"@es;
