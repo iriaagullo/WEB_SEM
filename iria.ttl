@@ -14,8 +14,8 @@
 	foaf:gender "femenino"@es;
 	foaf:homepage <https://esei.uvigo.es/>;
 	foaf:based_near <https://www.geonames.org/3119841/>;
-	foaf:interest wikidata:Q229680 , wikidata:Q124913371 , Q6160865;
-	ex:likesMovie wikidata:Q223374 , wikidata:Q20856802 , Q36951175;
+	foaf:interest wikidata:Q229680 , wikidata:Q124913371 , wikidata:Q6160865;
+	ex:likesMovie wikidata:Q223374 , wikidata:Q20856802 , wikidata:Q36951175;
 	foaf:knows  <http://github.com/siradubrap/sira.ttl>#yo,
 				<https://github.com/mfgavilanes/WS/perfil.ttl>#yo,
 				<https://github.com/AdanAgr/WS/blob/main/santi.ttl>#yo;
